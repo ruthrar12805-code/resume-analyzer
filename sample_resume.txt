@@ -1,0 +1,32 @@
+John Doe
+john.doe@email.com | +1 (555) 123-4567 | San Francisco, CA
+
+SUMMARY
+Software Engineer with 5 years of experience building scalable web applications and data pipelines.
+
+EXPERIENCE
+Senior Software Engineer — TechCorp Inc. (2021–Present)
+- Developed and deployed microservices using Python, Docker, and Kubernetes
+- Improved system performance by 40% through query optimization in PostgreSQL
+- Led a team of 4 engineers, managing sprint planning and code reviews
+
+Software Engineer — DataSoft LLC (2019–2021)
+- Built REST APIs using Django and Flask
+- Implemented CI/CD pipelines with GitHub Actions
+- Analyzed large datasets using Pandas and NumPy
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley — 2019
+
+SKILLS
+Python, JavaScript, React, Node.js, Django, Flask, Docker, Kubernetes, AWS,
+PostgreSQL, MongoDB, Redis, Git, Linux, Machine Learning, Scikit-learn, Pandas, NumPy, SQL
+
+PROJECTS
+- Resume Parser: NLP-based tool to extract structured data from resumes using spaCy
+- Stock Predictor: Machine learning model using scikit-learn to predict stock trends
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Google Professional Data Engineer
